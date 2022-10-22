@@ -1,4 +1,4 @@
-<img src="pgr-header.png" width="1280px" alt="PINK GOTH REMIX GITHUB HEADER">
+<img src="pgr-github-header.png" width="1280px" alt="PINK GOTH REMIX GITHUB HEADER">
 
 # PINK GOTH REMIX
 ## Yet another vanilla sprites (re)coloring project
